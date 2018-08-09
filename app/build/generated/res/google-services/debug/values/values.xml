@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">366364208161-7jqidmir2m06e89hukhga19qhkm4cdtc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://blogapp-baa48.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">366364208161</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRawtw-sqkt5NtunpNZkA43ltWG0XNjfU</string>
+    <string name="google_app_id" translatable="false">1:366364208161:android:5b899741e75e2391</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRawtw-sqkt5NtunpNZkA43ltWG0XNjfU</string>
+    <string name="google_storage_bucket" translatable="false">blogapp-baa48.appspot.com</string>
+    <string name="project_id" translatable="false">blogapp-baa48</string>
+</resources>
